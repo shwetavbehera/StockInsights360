@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+
+# Ignore data folder
+data/
+
+# Ignore virtual environment
+my_project_env/
