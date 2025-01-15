@@ -1,4 +1,3 @@
 requests
-os
-dotenv
-json
+pandas
+airflow
